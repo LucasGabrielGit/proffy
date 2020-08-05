@@ -1,8 +1,8 @@
 import React from "react";
 
 import "./assets/styles/global.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
-import Landing from "./pages/Landing";
 import Routes from "./pages/routes";
 
 function App() {
