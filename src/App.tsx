@@ -1,7 +1,6 @@
 import React from "react";
 
 import "./assets/styles/global.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 import Routes from "./pages/routes";
 
